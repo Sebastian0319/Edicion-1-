@@ -16,7 +16,7 @@
    height="768"
    viewBox="0 0 1366 768"
    sodipodi:docname="lab8_6.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata205">
     <rdf:RDF>
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,6 +177,72 @@
          id="path226"
          inkscape:connector-curvature="0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220-3">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.090358,253.33159 958.494042,1.19136 -1.121,277.58703 H 93.695586 Z"
+         id="path222-6"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath216-7">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 9.5238095,17.206349 1366.6667,20.380952 1365.0794,760.06349 H 17.460317 Z"
+         id="path218-5"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1445-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1443-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212-0">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 9.5238095,17.206349 1366.6667,20.380952 1365.0794,760.06349 H 17.460317 Z"
+         id="path214-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1445-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1443-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212-7">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 9.5238095,17.206349 1366.6667,20.380952 1365.0794,760.06349 H 17.460317 Z"
+         id="path214-92"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -187,16 +253,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1365"
-     inkscape:window-height="704"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
      id="namedview201"
      showgrid="false"
-     inkscape:zoom="0.63"
-     inkscape:cx="683"
-     inkscape:cy="412.53116"
+     inkscape:zoom="0.44547727"
+     inkscape:cx="895.78077"
+     inkscape:cy="553.38056"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg199" />
   <image
      width="1459.651"
@@ -281,4 +347,52 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc"
      clip-path="url(#clipPath196)" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1424-5-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.14076519px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51482409"
+     transform="matrix(1.4159116,0,0,2.664687,359.43062,-1054.7954)"
+     clip-path="url(#clipPath220-3)"><flowRegion
+       id="flowRegion1426-3-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.14076519px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.51482409"><rect
+         id="rect1428-5-6"
+         width="272.03131"
+         height="85.66732"
+         x="269.02545"
+         y="410.30136"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.14076519px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;stroke-width:0.51482409" /></flowRegion><flowPara
+       id="flowPara1432-6-2"
+       style="stroke-width:0.51482409"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.61004925px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowSpan2312-2-9">La interpolación es la multiplicación de</flowSpan></flowPara><flowPara
+       style="stroke-width:0.51482409"
+       id="flowPara89"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.61004925px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
+         id="flowSpan91">la frecuencia</flowSpan></flowPara></flowRoot>  <rect
+     transform="translate(458.76192,-408.06348)"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.60000002;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.60000003, 3.20000008;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1402-9-1"
+     width="278.34225"
+     height="77.055046"
+     x="275.08286"
+     y="436.74228"
+     ry="7.0781164"
+     rx="12.023483"
+     clip-path="url(#clipPath216-7)" />
+  <path
+     transform="translate(176.74141,70.723482)"
+     style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1445-2)"
+     d="m 692.72108,235.28945 c -107.00679,-2.21008 -105.41949,-0.62278 -105.41949,-0.62278 v 196.4127 -6"
+     id="path1101-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     clip-path="url(#clipPath212-0)" />
+  <path
+     transform="translate(-29.607793,-178.48287)"
+     style="fill:none;stroke:#000000;stroke-width:1.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1445-1)"
+     d="m 762.56235,236.87675 c -80.02266,-0.62277 -175.26076,-2.21008 -175.26076,-2.21008 v 196.4127 -6"
+     id="path1101-0"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc"
+     clip-path="url(#clipPath212-7)" />
 </svg>
